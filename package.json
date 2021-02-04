@@ -1,0 +1,24 @@
+{
+  "name": "senior-frontend",
+  "version": "1.0.0",
+  "description": "Exel app Pure JS",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AinKaspi/Exel-Pure-JS.git"
+  },
+  "keywords": [
+    "js",
+    "javascript",
+    "exel"
+  ],
+  "author": "AinKaspi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AinKaspi/Exel-Pure-JS/issues"
+  },
+  "homepage": "https://github.com/AinKaspi/Exel-Pure-JS#readme"
+}
